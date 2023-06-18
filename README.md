@@ -10,23 +10,23 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
+Initiate the MobileRobot.
 <br/>
 
 Step2:
-
+Connect your PC with the MobileRobot through Wi-Fi.
 <br/>
 
 Step3:
-
+Open batter_level.py file and check the battery.
 <br/>
 
 Step4:
-
+Open the other Python files and Program the movements of the robot using python.
 <br/>
 
 Step5:
-
+Execute the python program and record the movements.
 <br/>
 
 ## Program
@@ -108,9 +108,9 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![image](https://github.com/Aswinth21/mobilerobot-openloopcontrol/assets/120236638/12e16859-211b-41e6-84cc-ed04f406de30)
 
-Insert image here
+
 
 
 <br/>
@@ -138,6 +138,8 @@ Thus the python program code is developed to move the mobilerobot in the predefi
 
 ```
 Mobile Robotics Laboratory
+ASWINTH T 
+212222230015
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
 ```
